@@ -83,7 +83,7 @@
     "lint-staged": "^15.0.2",
     "nodemon": "^2.0.20",
     "prettier": "^3.0.3",
-    "release-it": "^16.2.1",
+    "release-it": "^17.11.0",
     "resolve-tspaths": "^0.8.17",
     "rimraf": "^5.0.5",
     "typescript": "^5.7.2",
